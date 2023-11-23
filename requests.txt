@@ -1,0 +1,14 @@
+venv_justcode/Lib venv_justcode/Lib/site-packages venv_justcode/Lib/site-packages/_distutils_hack venv_justcode/Lib/site-packages/asgiref venv_justcode/Lib/site-packages/asgiref-3.7.2.dist-info venv_justcode/Lib/site-packages/certifi venv_justcode/Lib/site-packages/certifi-2023.11.17.dist-info venv_justcode/Lib/site-packages/charset_normalizer venv_justcode/Lib/site-packages/charset_normalizer-3.3.2.dist-info venv_justcode/Lib/site-packages/django venv_justcode/Lib/site-packages/Django-4.2.7.dist-info venv_justcode/Lib/site-packages/idna venv_justcode/Lib/site-packages/idna-3.4.dist-info venv_justcode/Lib/site-packages/pip venv_justcode/Lib/site-packages/pip-23.2.1.dist-info venv_justcode/Lib/site-packages/pkg_resources venv_justcode/Lib/site-packages/requests venv_justcode/Lib/site-packages/requests-2.31.0.dist-info venv_justcode/Lib/site-packages/setuptools venv_justcode/Lib/site-packages/setuptools-65.5.0.dist-info venv_justcode/Lib/site-packages/sqlparse venv_justcode/Lib/site-packages/sqlparse-0.4.4.dist-info venv_justcode/Lib/site-packages/tzdata venv_justcode/Lib/site-packages/tzdata-2023.3.dist-info venv_justcode/Lib/site-packages/urllib3 venv_justcode/Lib/site-packages/urllib3-2.1.0.dist-info
+asgiref
+certifi
+charset_normalizer
+django
+idna
+pip
+pkg_resources
+requests
+requests-2
+setuptools
+sqlparse
+tzdata
+urllib3
